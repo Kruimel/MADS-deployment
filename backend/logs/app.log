@@ -1,0 +1,19 @@
+2025-11-17 08:33:47.299 | INFO     | __main__:load_model:22 - Loading model and tokenizer from /mnt/WORKSPACE/kiei_workspace/master/UOS3/MADS-deployment/2-frontend/straattaal/backend/artefacts
+2025-11-17 08:34:31.640 | INFO     | __main__:load_model:22 - Loading model and tokenizer from /mnt/WORKSPACE/kiei_workspace/master/UOS3/MADS-deployment/2-frontend/straattaal/backend/artefacts
+2025-11-17 08:35:47.188 | INFO     | __main__:load_model:22 - Loading model and tokenizer from /mnt/WORKSPACE/kiei_workspace/master/UOS3/MADS-deployment/2-frontend/straattaal/artefacts
+2025-11-17 08:35:47.276 | SUCCESS  | __main__:load_model:30 - Model and tokenizer loaded successfully
+2025-11-17 08:43:11.267 | INFO     | __main__:load_model:22 - Loading model and tokenizer from /mnt/WORKSPACE/kiei_workspace/master/UOS3/MADS-deployment/2-frontend/straattaal/artefacts
+2025-11-17 08:43:11.310 | SUCCESS  | __main__:load_model:30 - Model and tokenizer loaded successfully
+2025-11-17 08:43:18.447 | INFO     | __main__:read_index:133 - serving index.html
+2025-11-17 09:00:23.298 | INFO     | __main__:read_index:133 - serving index.html
+2025-11-17 11:16:59.451 | INFO     | __main__:load_model:22 - Loading model and tokenizer from /mnt/WORKSPACE/kiei_workspace/master/UOS3/MADS-deployment/2-frontend/straattaal/artefacts
+2025-11-17 11:17:21.301 | INFO     | __main__:load_model:22 - Loading model and tokenizer from /artefacts
+2025-11-17 11:18:05.456 | INFO     | __main__:load_model:22 - Loading model and tokenizer from /mnt/WORKSPACE/kiei_workspace/master/UOS3/MADS-deployment/2-frontend/straattaal/backend/artefacts
+2025-11-17 11:18:41.642 | INFO     | __main__:load_model:22 - Loading model and tokenizer from /mnt/WORKSPACE/kiei_workspace/master/UOS3/MADS-deployment/2-frontend/straattaal/artefacts
+2025-11-17 11:27:40.228 | INFO     | __main__:load_model:22 - Loading model and tokenizer from /mnt/WORKSPACE/kiei_workspace/master/UOS3/MADS-deployment/2-frontend/straattaal/backend/artefacts
+2025-11-17 11:37:02.939 | INFO     | __main__:load_model:22 - Loading model and tokenizer from /mnt/WORKSPACE/kiei_workspace/master/UOS3/MADS-deployment/2-frontend/straattaal/backend/artefacts
+2025-11-17 11:37:43.481 | INFO     | __main__:load_model:22 - Loading model and tokenizer from /mnt/WORKSPACE/kiei_workspace/master/UOS3/MADS-deployment/2-frontend/straattaal/backend/artefacts
+2025-11-17 11:38:14.746 | INFO     | __main__:load_model:22 - Loading model and tokenizer from /mnt/WORKSPACE/kiei_workspace/master/UOS3/MADS-deployment/2-frontend/straattaal/artefacts
+2025-11-17 11:38:14.790 | SUCCESS  | __main__:load_model:35 - Model and tokenizer loaded successfully
+2025-11-17 11:38:21.811 | INFO     | __main__:read_index:138 - serving index.html
+2025-11-17 11:38:48.726 | INFO     | __main__:read_index:138 - serving index.html

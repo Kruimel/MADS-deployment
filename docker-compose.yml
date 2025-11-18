@@ -1,0 +1,18 @@
+
+services:
+  straattaal:
+    build:
+      context: ./
+    volumes:
+      - artefacts/:/app/artefacts
+    ports:
+      - "80:80"
+
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:80/health && exit 0 || exit 1"]
+      interval: 10s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
+    restart: unless-stopped
+
