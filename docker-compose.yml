@@ -4,7 +4,7 @@ services:
     build:
       context: ./
     volumes:
-      - artefacts/:/app/artefacts
+      - ./artefacts:/app/artefacts
     ports:
       - "80:80"
 
